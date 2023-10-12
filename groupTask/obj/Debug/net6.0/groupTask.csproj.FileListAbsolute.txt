@@ -1,0 +1,14 @@
+C:\Users\sefer\OneDrive\Desktop\groupTask\groupTask\bin\Debug\net6.0\groupTask.exe
+C:\Users\sefer\OneDrive\Desktop\groupTask\groupTask\bin\Debug\net6.0\groupTask.deps.json
+C:\Users\sefer\OneDrive\Desktop\groupTask\groupTask\bin\Debug\net6.0\groupTask.runtimeconfig.json
+C:\Users\sefer\OneDrive\Desktop\groupTask\groupTask\bin\Debug\net6.0\groupTask.dll
+C:\Users\sefer\OneDrive\Desktop\groupTask\groupTask\bin\Debug\net6.0\groupTask.pdb
+C:\Users\sefer\OneDrive\Desktop\groupTask\groupTask\obj\Debug\net6.0\groupTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sefer\OneDrive\Desktop\groupTask\groupTask\obj\Debug\net6.0\groupTask.AssemblyInfoInputs.cache
+C:\Users\sefer\OneDrive\Desktop\groupTask\groupTask\obj\Debug\net6.0\groupTask.AssemblyInfo.cs
+C:\Users\sefer\OneDrive\Desktop\groupTask\groupTask\obj\Debug\net6.0\groupTask.csproj.CoreCompileInputs.cache
+C:\Users\sefer\OneDrive\Desktop\groupTask\groupTask\obj\Debug\net6.0\groupTask.dll
+C:\Users\sefer\OneDrive\Desktop\groupTask\groupTask\obj\Debug\net6.0\refint\groupTask.dll
+C:\Users\sefer\OneDrive\Desktop\groupTask\groupTask\obj\Debug\net6.0\groupTask.pdb
+C:\Users\sefer\OneDrive\Desktop\groupTask\groupTask\obj\Debug\net6.0\groupTask.genruntimeconfig.cache
+C:\Users\sefer\OneDrive\Desktop\groupTask\groupTask\obj\Debug\net6.0\ref\groupTask.dll
